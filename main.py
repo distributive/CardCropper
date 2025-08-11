@@ -6,10 +6,10 @@ import os
 
 SIZES = (
     # NRDB
-    ("nrdb", "small_", 51, 71, "jpeg"),
-    ("nrdb", "medium_", 116, 162, "jpeg"),
-    ("nrdb", "large_", 165, 230, "jpeg"),
-    ("nrdb", "xlarge_", 300, 418, "jpeg"),
+    ("nrdb_classic", "tiny_", 51, 71, "jpeg"),
+    ("nrdb_classic", "small_", 116, 162, "jpeg"),
+    ("nrdb_classic", "medium_", 165, 230, "jpeg"),
+    ("nrdb_classic", "large_", 300, 418, "jpeg"),
 
     # JNet
     ("jnet", "standard_", 452, 632, "png"),
